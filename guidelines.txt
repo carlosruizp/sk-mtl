@@ -1,0 +1,2 @@
+https://sklearn-template.readthedocs.io/en/latest/quick_start.html
+https://scikit-learn.org/stable/developers/develop.html#coding-guidelines
